@@ -1,6 +1,6 @@
 # Happy
 
-## About the Project
+## :books: About the Project
 Happy Project developed during Next Level Week 3, carried out by @Rocketseat during the 12th to 18th of October 2020; aims to facilitate visits to orphanages
 ### Funcionalities
 Orphanage registration
