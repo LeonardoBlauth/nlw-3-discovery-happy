@@ -10,7 +10,7 @@ Locate orphanages close to your region.
 Make kids happier
 
 ## 🚀 Technologies
-project developed with the following technologies:
+Project developed with the following technologies:
 - Nodemon
 - Express
 - Handlebars
